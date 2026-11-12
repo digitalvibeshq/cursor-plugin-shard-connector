@@ -2,7 +2,7 @@
   "name": "shard-connector",
   "displayName": "Shard Connector for Obsidian",
   "version": "1.0.0",
-  "description": "Search, read, create, and edit notes in your Obsidian Sync vault over MCP.",
+  "description": "Connect the Obsidian vault you sync with Obsidian Sync to search, read, and edit your notes from Cursor, without keeping the Obsidian app running.",
   "author": {
     "name": "Digital Vibes (David Mohl)",
     "email": "hello@shardconnector.com"

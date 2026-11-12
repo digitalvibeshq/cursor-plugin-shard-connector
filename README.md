@@ -1,8 +1,10 @@
 # Shard Connector for Obsidian
 
-Cursor plugin that connects agents to your [Obsidian](https://obsidian.md) vault through [Shard Connector](https://shardconnector.com), a hosted [Model Context Protocol](https://modelcontextprotocol.io/) server backed by Obsidian Sync.
+<img src="assets/logo.png" alt="Shard Connector for Obsidian" width="96" height="96">
 
-Works in the Cursor editor, the Cursor CLI, and Cloud Agents without running Obsidian locally or installing the Local REST API plugin.
+Connect the [Obsidian](https://obsidian.md) vault you sync with Obsidian Sync to search, read, and edit your notes from Cursor, without keeping a computer or the Obsidian app running. [Shard Connector](https://shardconnector.com) handles syncing with Obsidian Sync for you over [MCP](https://modelcontextprotocol.io/).
+
+Works in the Cursor editor, the Cursor CLI, and Cloud Agents without installing the Local REST API plugin.
 
 ## Prerequisites
 
