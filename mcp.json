@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Obsidian": {
+      "type": "http",
+      "url": "https://mcp.shardconnector.com/mcp"
+    }
+  }
+}
